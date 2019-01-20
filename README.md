@@ -1,2 +1,27 @@
-# msi-z370i-gaming-carbon-pro-ac-hackintosh
+# Hackintosh Installation Guide for MSI Z370i Gaming Carbon Pro AC
 A guide to build your own Hackintosh based on MSI z370i Gaming Carbon Pro AC
+
+### Hardware
+
+See my [Hardware List](Hardware.md)
+
+![About My Mac](images/about.png)
+
+### What's Working/What's Not
+
+#### Working
+- Ethernet
+- Audio (including DP/HDMI audio)
+- APFS
+- Sleep/Wake
+- Headless iGPU
+- All USB ports
+- iMessage
+- App Store
+- Facetime
+- Bluetooth (Built-in though no way to turn it off)
+- Native Power Management
+
+#### Not Working
+- Built-in WiFi (Not supported by macOS)
+
