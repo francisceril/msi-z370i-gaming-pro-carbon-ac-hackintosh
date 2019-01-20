@@ -19,11 +19,12 @@
 - iMessage
 - App Store
 - Facetime
-- Bluetooth (Built-in though no way to turn it off)
+- USB Bluetooth
 - Native Power Management
 
 #### Not Working
 - Built-in WiFi (Not supported by macOS)
+- Built-in Bluetooth (Works but cannot be turned off)
 
 #### Not Tested
 - FileVault
