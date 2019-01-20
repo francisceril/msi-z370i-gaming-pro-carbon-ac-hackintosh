@@ -27,3 +27,7 @@
 
 #### Not Tested
 - FileVault
+
+
+### Instructions
+This is a "Vanilla" build using [this guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/).
