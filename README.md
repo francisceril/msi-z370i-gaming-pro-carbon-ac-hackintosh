@@ -1,7 +1,4 @@
-# Hackintosh Installation Guide for MSI Z370i Gaming Carbon Pro AC
-A guide to build your own Hackintosh based on MSI z370i Gaming Carbon Pro AC
-
-This  build is "Vanilla"
+# MSI Z370i Gaming Carbon Pro AC Hackintosh Build
 
 ### Hardware
 
