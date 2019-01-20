@@ -1,4 +1,4 @@
-# MSI Z370i Gaming Carbon Pro AC Hackintosh Build
+# MSI Z370i Gaming Pro Carbon AC Hackintosh Build
 
 ### Hardware Components
 - MSI Z370i Gaming Carbon Pro AC
