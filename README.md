@@ -25,3 +25,5 @@ See my [Hardware List](Hardware.md)
 #### Not Working
 - Built-in WiFi (Not supported by macOS)
 
+#### Not Tested
+- FileVault
