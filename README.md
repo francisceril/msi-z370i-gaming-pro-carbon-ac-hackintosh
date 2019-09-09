@@ -15,7 +15,7 @@
 - APFS
 - Sleep/Wake
 - Headless iGPU
-- All USB ports (USB2, USB3, USB-C not tested)
+- All USB ports (USB2, USB3)
 - iMessage
 - App Store
 - Facetime
