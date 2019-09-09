@@ -19,7 +19,7 @@
 - iMessage
 - App Store
 - Facetime
-- USB Bluetooth
+- Bluetooth
 - Native Power Management
 
 #### Not Working
