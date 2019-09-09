@@ -28,6 +28,7 @@
 
 #### Not Tested
 - FileVault
+- USB-C
 
 
 ### Instructions
