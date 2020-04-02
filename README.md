@@ -31,5 +31,5 @@
 - USB-C
 
 
-### Instructions
-This is a "Vanilla" build using [this guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/).
+### Guide Used
+[Opencore-Vanilla-Desktop-Guide](https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/).
