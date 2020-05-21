@@ -30,6 +30,9 @@
 - FileVault
 - USB-C
 
+### PlatformInfo
+Make sure to generate and fill up your own PlatformInfo
+
 
 ### Guide Used
 [Opencore-Vanilla-Desktop-Guide](https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/).
