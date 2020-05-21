@@ -30,7 +30,7 @@
 - FileVault
 - USB-C
 
-### PlatformInfo
+#### PlatformInfo
 Make sure to generate and fill up your own PlatformInfo
 
 
