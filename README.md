@@ -30,6 +30,24 @@
 - FileVault
 - USB-C
 
+### Kexts
+This build relies on the following kexts.
+- Lilu
+- WhateverGreen
+- AppleALC
+- VirtualSMC
+- SMCProcessor
+- SMCSuperIO
+- IntelMausi
+- NVMeFix
+- USBPorts - Included in this repo. All ports included except for the internal Bluetooth (HS11). If you wish to use the internal Bluetooth, make sure to include port HS11 in the included USB.plist and generate the kext.
+
+### SSDTs
+This motherboard works OOB with the included SSDTs from OpenCore package. No special config needed.
+- SSDT-EC-USBX
+- SSDT-PLUG
+- SSDT-SBUS-MCHC
+
 #### PlatformInfo
 Make sure to generate and fill up your own PlatformInfo
 
