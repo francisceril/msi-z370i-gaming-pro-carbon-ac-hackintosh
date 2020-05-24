@@ -54,3 +54,10 @@ Make sure to generate and fill up your own PlatformInfo
 
 ### Guide Used
 [Opencore-Vanilla-Desktop-Guide](https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/).
+
+### Credits
+Special thanks to:
+- [OpenCore](https://github.com/acidanthera/OpenCorePkg) team for the bootloader.
+- [corpnewt](https://github.com/corpnewt) for the tools used.
+- [acidanthera](https://github.com/acidanthera) for the kexts.
+- Entire Hackintosh community for the support.
