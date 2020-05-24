@@ -39,7 +39,7 @@ This build relies on the following kexts.
 - SMCProcessor
 - SMCSuperIO
 - IntelMausi
-- NVMeFix
+- NVMeFix - Only if using an NVMe SSD
 - USBPorts - Included in this repo. All ports included except for the internal Bluetooth (HS11). If you wish to use the internal Bluetooth, make sure to include port HS11 in the included USB.plist and generate the kext.
 
 ### SSDTs
