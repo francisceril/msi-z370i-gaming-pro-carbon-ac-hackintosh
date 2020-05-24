@@ -32,15 +32,15 @@
 
 ### Kexts
 This build relies on the following kexts.
-- Lilu
-- WhateverGreen
-- AppleALC
-- VirtualSMC
-- SMCProcessor
-- SMCSuperIO
-- IntelMausi
-- NVMeFix - Only if using an NVMe SSD
-- USBPorts - Included in this repo. All ports included except for the internal Bluetooth (HS11). If you wish to use the internal Bluetooth, make sure to include port HS11 in the included USB.plist and generate the kext.
+- [Lilu](https://github.com/acidanthera/lilu/releases)
+- [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases)
+- [AppleALC](https://github.com/acidanthera/applealc/releases)
+- [VirtualSMC](https://github.com/acidanthera/virtualsmc/releases)
+- SMCProcessor - included with VirtualSMC
+- SMCSuperIO - included with VirtualSMC
+- [IntelMausi](https://github.com/acidanthera/IntelMausi/releases)
+- [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) - Only if using an NVMe SSD
+- USBPorts - Included in this repo. All ports included except for the internal Bluetooth (HS11). If you wish to use the internal Bluetooth, make sure to include port HS11 in the included USB.plist and generate the kext using [USBMap tool](https://github.com/corpnewt/USBMap)
 
 ### SSDTs
 This motherboard works OOB with the included SSDTs from OpenCore package. No special config needed.
